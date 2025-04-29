@@ -1,6 +1,6 @@
 ### Day 1: Introdução ao Istio
 
-Seja muito bem-vindo(a) ao **Descomplicando o Istio**! Neste primeiro *day*, vamos explorar:
+Seja muito bem-vindo(a) ao **Istio 101**! Neste primeiro artigo, vamos explorar:
 
 - O que é o Istio e por que ele é tão importante em arquiteturas de microsserviços.
 - Como o Istio se integra ao Kubernetes e traz observabilidade, segurança e controle de tráfego.
